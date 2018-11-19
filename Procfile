@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT cbdan_crowdbotics_40.wsgi:application
